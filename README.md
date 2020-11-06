@@ -1,7 +1,5 @@
 # RunCord
-Eris discord bot framework.
-
-More info comming soon...
+An framework to increase your Eris discord bot development!
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
